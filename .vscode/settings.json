@@ -64,7 +64,10 @@
     "borb",
     "fillna",
     "jobcard",
-    "panchayat"
+    "norecursedirs",
+    "panchayat",
+    "pytest",
+    "venv"
   ],
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
