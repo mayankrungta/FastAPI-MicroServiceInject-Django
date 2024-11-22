@@ -62,9 +62,16 @@
   },
   "cSpell.words": [
     "borb",
+    "fastapi",
     "fillna",
+    "gunicorn",
+    "httpx",
     "jobcard",
-    "panchayat"
+    "norecursedirs",
+    "panchayat",
+    "pytest",
+    "uvicorn",
+    "venv"
   ],
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
